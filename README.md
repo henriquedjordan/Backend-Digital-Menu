@@ -17,3 +17,8 @@ git clone https://github.com/henriquedjordan/Digital-Menu-API.git
 2. Install dependencies with Maven
 
 3. Install [PostgresSQL](https://www.postgresql.org/)
+
+## Usage
+
+1. Start the application with Maven
+2. The API will be accessible at http://localhost:8080
