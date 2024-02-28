@@ -5,3 +5,15 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 This project is an API built using Java, Java Spring, Flyway Migrations and PostgresSQL as the database
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/henriquedjordan/Digital-Menu-API.git
+```
+
+2. Install dependencies with Maven
+
+3. Install [PostgresSQL](https://www.postgresql.org/)
